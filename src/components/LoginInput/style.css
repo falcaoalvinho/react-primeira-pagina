@@ -1,0 +1,15 @@
+input {
+    background-color: #4e4e4e;
+    color: #3af747;
+
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    
+    border-color: #3af747;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    
+    padding: 10px 15px;
+}
